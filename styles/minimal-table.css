@@ -2,11 +2,11 @@
 
 
 font-family: sans-serif;
-padding-left: 11em;
-   font-family: Georgia, "Times New Roman",
-          Times, serif;
-		  color: purple;
-    background-color: #d8da3d }
+padding-left: 14em;
+padding-right: 10em;
+   font-family: Arial, Helvetica, sans-serif, serif;
+		  color: black;
+    background-color: grey }
 	  ul.navbar {
      list-style-type: none;
     padding: 0;
@@ -29,10 +29,12 @@ a:link {
   color: blue }
 a:visited {
   color: purple }
+
 address {
   margin-top: 1em;
   padding-top: 1em;
   border-top: thin dotted }
+
 table {
   border-collapse: collapse;
   border: 2px solid rgb(200,200,200);
